@@ -8,6 +8,10 @@
 ## Laser Cutting
 
 **a. Include a photo of your box here.**
+![Planets](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/box_planets.JPG)
+![Name](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/box_names.JGP)
+
+
 **b. Include `.stl` files.**
 
 
