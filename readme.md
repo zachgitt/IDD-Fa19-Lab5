@@ -15,8 +15,7 @@
   <img src="https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/box_name.JPG" width="425" /> 
 </p>
 
-**b. Include `.stl` files.**
-
+[Laser File](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/planets.ai)
 
 ## 3D Printing
 
