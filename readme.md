@@ -31,9 +31,5 @@
 
 ## Putting it All Together
 
-[Code](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/jack.ino)
-
-Include here:
-1. Your Arduino code.
-1. At least one photo of your Jack in the Box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
-1. A video of your Jack in the Box in action.
+[Code](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/JackInABox.ino)
+[![Thumb](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/thumb.jpg)](https://youtu.be/6BptUZd56x8)
