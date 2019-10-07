@@ -7,6 +7,8 @@
 
 ## Laser Cutting
 
+[Laser File](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/planets.ai)
+
 <p align="center"> <b> Smiley Box </b> </p>
 <p align="center">
 <p float="left">
@@ -14,14 +16,12 @@
   <img src="https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/box_name.JPG" width="425" /> 
 </p>
 
-[Laser File](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/planets.ai)
-
 ## 3D Printing
-
-![Smiley](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/smiley.JPG)
 
 [STL](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/smiley.stl) <br>
 [GCode](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/planets.gcode)
+
+![Smiley](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/smiley.JPG)
 
 ## Electronics
 
