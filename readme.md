@@ -32,4 +32,4 @@
 ## Putting it All Together
 
 [Code](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/JackInABox.ino)
-[![Thumb](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/thumb.jpg)](https://youtu.be/6BptUZd56x8)
+[![Thumb](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/thumb.png)](https://youtu.be/6BptUZd56x8)
