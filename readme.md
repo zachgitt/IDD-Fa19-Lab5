@@ -7,7 +7,6 @@
 
 ## Laser Cutting
 
-**a. Include a photo of your box here.**
 <p align="center"> <b> Smiley Box </b> </p>
 <p align="center">
 <p float="left">
