@@ -26,7 +26,6 @@
 
 ## Electronics
 
-**a. Upload code & a photo of your electronic circuit here.**
 ![Circuit](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/circuit.JPG)
 
 ## Putting it All Together
