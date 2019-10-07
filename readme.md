@@ -9,7 +9,7 @@
 
 **a. Include a photo of your box here.**
 ![Planets](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/box_planets.JPG)
-![Name](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/box_name.JGP)
+![Name](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/box_name.JPG)
 
 
 **b. Include `.stl` files.**
