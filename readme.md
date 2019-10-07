@@ -9,7 +9,7 @@
 
 **a. Include a photo of your box here.**
 <p align="center"> <b> Smiley Box </b> </p>
-<p align="center"> <img src="https://github.com/Konstantinos-KK/IDD-Fa19-Lab5/blob/master/front.jpg" width="600" />
+<p align="center">
 <p float="left">
   <img src="https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/box_planets.JPG" width="425" />
   <img src="https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/box_name.JPG" width="425" /> 
