@@ -2,7 +2,6 @@
 
 ## Design
 
-Please put your sketches or designs for the Jack in the Box.
 ![Design](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/planets.jpg)
 
 
