@@ -24,13 +24,14 @@
 [STL](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/smiley.stl) <br>
 [GCode](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/planets.gcode)
 
-**b. Include `.stl` or `.svg` files if you made modifications.**
-
 ## Electronics
 
 **a. Upload code & a photo of your electronic circuit here.**
+![Circuit](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/circuit.JPG)
 
 ## Putting it All Together
+
+[Code](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/jack.ino)
 
 Include here:
 1. Your Arduino code.
