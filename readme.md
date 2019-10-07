@@ -20,6 +20,11 @@
 ## 3D Printing
 
 **a. Include a photo of your printed part here.**
+![Smiley](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/smiley.JPG)
+
+[3D STL](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/planets.ai)
+[3D Code](https://github.com/zachgitt/IDD-Fa19-Lab5/blob/master/planets.ai)
+
 **b. Include `.stl` or `.svg` files if you made modifications.**
 
 ## Electronics
